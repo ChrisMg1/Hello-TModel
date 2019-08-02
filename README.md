@@ -1,2 +1,5 @@
 # Hello-TModel
-CM first steps with os transportation model
+
+
+First branach to test. 
+Will be filled with Java Code some day...
